@@ -3,6 +3,10 @@ Study a set of vocabulary by entering it over and over! Learn Japanese! lol
 
 http://imgur.com/a/Q4qmo
 
+
+The reason I make it "spam" is because you have to enter the text multiple times for it to count as correct. This solidifies your mind in the learning process, especially for people who are Tactile learners. see http://www.educationplanner.org/students/self-assessments/learning-styles-styles.shtml for details on that theory stuff folks.
+
+
 HOW TO RUN IT:
 
 Download the Spamstudy.jar file and other .txt files. also make sure you have Java 7 or later. 
@@ -15,8 +19,6 @@ CONTROLS:
         enter the correct text on the top
         type ? to get the answers
         type status to get you progress
-
-The reason I make it "spam" is because you have to enter the text multiple times for it to count as correct. This solidifies your mind in the learning process, especially for people who are Tactile learners. see http://www.educationplanner.org/students/self-assessments/learning-styles-styles.shtml for details on that theory stuff folks.
 
 
 Inputs:
