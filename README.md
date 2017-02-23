@@ -21,7 +21,7 @@ CONTROLS:
         type status to get you progress
 
 
-Inputs:
+INPUTS:
 a list of things to learn. example:
 
         Texas,Austin
@@ -33,12 +33,12 @@ You can put multiple arguments. The first word is the Word to learn, and then th
 
 
 
-Outputs:
+OUTPUTS:
 
 a resizable java window opens and you can enter in your text to quiz yourself. See http://imgur.com/a/Q4qmo 
 
 
-Customization:
+CUSTOMIZATION:
 
 Open the spamstudysettings.txt for a few settings:
 
