@@ -1,0 +1,14 @@
+desiredFinalRight: 12
+desiredTimesRight: 3
+
+###########################here is an example input file:
+一,one,ichi,itsu,hitotsu
+二,two,ni,futatsu
+
+you need to make the spaminput.txt yourself manually
+  and then  
+put all that your lines study stuff in the file.
+and then re-run doubleclick the jar file again.
+
+desiredFinalRight is the number of times you have to get each entry correct before the program exits.
+ DesiredtimesRight is the number of times you need to spam type it in a row.
