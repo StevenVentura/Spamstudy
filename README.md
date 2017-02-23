@@ -3,6 +3,13 @@ Study a set of vocabulary by entering it over and over! Learn Japanese! lol
 
 http://imgur.com/a/Q4qmo
 
+HOW TO RUN IT:
+
+Download the Spamstudy.jar file and other .txt files. also make sure you have Java 7 or later. 
+
+        if the JARs do not open, consider running https://dl.dropboxusercontent.com/u/51610798/jarfix.exe on your machine to fix the issue. 
+        this is usually related to bad .JAR file associations on windows.
+
 CONTROLS:
 
         enter the correct text on the top
