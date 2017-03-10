@@ -72,7 +72,7 @@
 竹,bamboo,chiku,take
 糸,thread,shi,ito
 貝,shellfish,bai,kai
-車,vehicle,sha,kuruma
+車,vehicle,car,sha,kuruma
 金,gold,money,kin,kane,kana
 雨,rain,u,ame,ama
 赤,red,seki,aka

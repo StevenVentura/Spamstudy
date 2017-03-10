@@ -1,7 +1,10 @@
 desiredFinalRight: 12
 desiredTimesRight: 3
 
-###########################here is an example input file:
+###########################
+
+Controls:
+enter a question mark to get the answer. Type the answer in the top blank.here is an example input file:
 一,one,ichi,itsu,hitotsu
 二,two,ni,futatsu
 
