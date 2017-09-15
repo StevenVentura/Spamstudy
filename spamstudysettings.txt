@@ -1,4 +1,4 @@
-desiredFinalRight: 12
+﻿desiredFinalRight: 30
 desiredTimesRight: 3
 
 ###########################
